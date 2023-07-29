@@ -1,0 +1,17 @@
+0310_win_loss_player_data.txt:05:00:00 AM Amirah Schneider,Nola Portillo, Mylie Schmidt,Suhayb Maguire,Millicent Betts,Avi Graves  
+0310_win_loss_player_data.txt:08:00:00 AM Chanelle Tapia, Shelley Dodson , Valentino Smith, Mylie Schmidt 
+0310_win_loss_player_data.txt:02:00:00 PM Jaden Clarkson, Kaidan Sheridan, Mylie Schmidt    
+0310_win_loss_player_data.txt:08:00:00 PM Mylie Schmidt, Trixie Velasquez, Jerome Klein ,Rahma Buckley  
+0310_win_loss_player_data.txt:11:00:00 PM Mcfadden Wasim, Norman Cooper, Mylie Schmidt    
+0312_win_loss_player_data.txt:05:00:00 AM Montana Kirk, Alysia Goodman, Halima Little, Etienne Brady, Mylie Schmidt
+0312_win_loss_player_data.txt:08:00:00 AM Rimsha Gardiner,Fern Cleveland, Mylie Schmidt,Kobe Higgins    
+0312_win_loss_player_data.txt:02:00:00 PM Mae Hail, Mylie Schmidt,Ayden Beil     
+0312_win_loss_player_data.txt:08:00:00 PM Tallulah Rawlings,Josie Dawe, Mylie Schmidt,Hakim Stott, Esther Callaghan, Ciaron Villanueva
+0312_win_loss_player_data.txt:11:00:00 PM Vlad Hatfield,Kerys Frazier,Mya Butler, Mylie Schmidt,Lex Oakley,Elin Wormald  
+0315_win_loss_player_data.txt:05:00:00 AM Arjan Guzman,Sommer Mann, Mylie Schmidt     
+0315_win_loss_player_data.txt:08:00:00 AM Lilianna Devlin,Brendan Lester, Mylie Schmidt,Blade Robertson,Derrick Schroeder   
+0315_win_loss_player_data.txt:02:00:00 PM Mylie Schmidt, Corey Huffman      
+MylieSchmidt Found In Lines Count: 
+13
+Total Lines of Losses: 
+13 Roulette_Losses.txt

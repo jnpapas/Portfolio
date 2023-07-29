@@ -1,0 +1,179 @@
+ROOTDIR is `/'
+Checking `amd'...                                           not found
+Checking `basename'...                                      not infected
+Checking `biff'...                                          not found
+Checking `chfn'...                                          not infected
+Checking `chsh'...                                          not infected
+Checking `cron'...                                          not infected
+Checking `crontab'...                                       not infected
+Checking `date'...                                          not infected
+Checking `du'...                                            not infected
+Checking `dirname'...                                       not infected
+Checking `echo'...                                          not infected
+Checking `egrep'...                                         not infected
+Checking `env'...                                           not infected
+Checking `find'...                                          not infected
+Checking `fingerd'...                                       not found
+Checking `gpm'...                                           not found
+Checking `grep'...                                          not infected
+Checking `hdparm'...                                        not infected
+Checking `su'...                                            not infected
+Checking `ifconfig'...                                      not infected
+Checking `inetd'...                                         not infected
+Checking `inetdconf'...                                     not found
+Checking `identd'...                                        not found
+Checking `init'...                                          not infected
+Checking `killall'...                                       not infected
+Checking `ldsopreload'...                                   not infected
+Checking `login'...                                         not infected
+Checking `ls'...                                            not infected
+Checking `lsof'...                                          not infected
+Checking `mail'...                                          not found
+Checking `mingetty'...                                      not found
+Checking `netstat'...                                       not infected
+Checking `named'...                                         not found
+Checking `passwd'...                                        not infected
+Checking `pidof'...                                         not infected
+Checking `pop2'...                                          not found
+Checking `pop3'...                                          not found
+Checking `ps'...                                            not infected
+Checking `pstree'...                                        not infected
+Checking `rpcinfo'...                                       not found
+Checking `rlogind'...                                       not found
+Checking `rshd'...                                          not found
+Checking `slogin'...                                        not infected
+Checking `sendmail'...                                      not infected
+Checking `sshd'...                                          not infected
+Checking `syslogd'...                                       not tested
+Checking `tar'...                                           not infected
+Checking `tcpd'...                                          not found
+Checking `tcpdump'...                                       not infected
+Checking `top'...                                           not infected
+Checking `telnetd'...                                       not found
+Checking `timed'...                                         not found
+Checking `traceroute'...                                    not infected
+Checking `vdir'...                                          not infected
+Checking `w'...                                             not infected
+Checking `write'...                                         not infected
+Checking `aliens'...                                        no suspect files
+Searching for sniffer's logs, it may take a while...        nothing found
+Searching for rootkit HiDrootkit's default files...         nothing found
+Searching for rootkit t0rn's default files...               nothing found
+Searching for t0rn's v8 defaults...                         nothing found
+Searching for rootkit Lion's default files...               nothing found
+Searching for rootkit RSHA's default files...               nothing found
+Searching for rootkit RH-Sharpe's default files...          nothing found
+Searching for Ambient's rootkit (ark) default files and dirs... nothing found
+Searching for suspicious files and dirs, it may take a while... The following suspicious files and directories were found:  
+/usr/lib/debug/.build-id
+/usr/lib/modules/5.15.0-1041-azure/vdso/.build-id
+/usr/lib/modules/5.15.0-1035-azure/vdso/.build-id
+/usr/lib/llvm-9/build/utils/lit/tests/.coveragerc
+/usr/lib/debug/.build-id
+/usr/lib/modules/5.15.0-1041-azure/vdso/.build-id
+/usr/lib/modules/5.15.0-1035-azure/vdso/.build-id
+Searching for LPD Worm files and dirs...                    nothing found
+Searching for Ramen Worm files and dirs...                  nothing found
+Searching for Maniac files and dirs...                      nothing found
+Searching for RK17 files and dirs...                        nothing found
+Searching for Ducoci rootkit...                             nothing found
+Searching for Adore Worm...                                 nothing found
+Searching for ShitC Worm...                                 nothing found
+Searching for Omega Worm...                                 nothing found
+Searching for Sadmind/IIS Worm...                           nothing found
+Searching for MonKit...                                     nothing found
+Searching for Showtee...                                    nothing found
+Searching for OpticKit...                                   nothing found
+Searching for T.R.K...                                      nothing found
+Searching for Mithra...                                     nothing found
+Searching for LOC rootkit...                                nothing found
+Searching for Romanian rootkit...                           nothing found
+Searching for Suckit rootkit...                             nothing found
+Searching for Volc rootkit...                               nothing found
+Searching for Gold2 rootkit...                              nothing found
+Searching for TC2 Worm default files and dirs...            nothing found
+Searching for Anonoying rootkit default files and dirs...   nothing found
+Searching for ZK rootkit default files and dirs...          nothing found
+Searching for ShKit rootkit default files and dirs...       nothing found
+Searching for AjaKit rootkit default files and dirs...      nothing found
+Searching for zaRwT rootkit default files and dirs...       nothing found
+Searching for Madalin rootkit default files...              nothing found
+Searching for Fu rootkit default files...                   nothing found
+Searching for ESRK rootkit default files...                 nothing found
+Searching for rootedoor...                                  nothing found
+Searching for ENYELKM rootkit default files...              nothing found
+Searching for common ssh-scanners default files...          nothing found
+Searching for Linux/Ebury - Operation Windigo ssh...        nothing found 
+Searching for 64-bit Linux Rootkit ...                      nothing found
+Searching for 64-bit Linux Rootkit modules...               nothing found
+Searching for Mumblehard Linux ...                          nothing found
+Searching for Backdoor.Linux.Mokes.a ...                    nothing found
+Searching for Malicious TinyDNS ...                         nothing found
+Searching for Linux.Xor.DDoS ...                            INFECTED: Possible Malicious Linux.Xor.DDoS installed
+/tmp/burpsuite_community_linux_v2022_1_1.sh
+/tmp/str.sh
+/tmp/response.varfile
+Searching for Linux.Proxy.1.0 ...                           nothing found
+Searching for CrossRAT ...                                  nothing found
+Searching for Hidden Cobra ...                              nothing found
+Searching for Rocke Miner ...                               nothing found
+Searching for suspect PHP files...                          nothing found
+Searching for anomalies in shell history files...           nothing found
+Checking `asp'...                                           not infected
+Checking `bindshell'...                                     not infected
+Checking `lkm'...                                           chkproc: nothing detected
+chkdirs: nothing detected
+Checking `rexedcs'...                                       not found
+Checking `sniffer'...                                       lo: not promisc and no packet sniffer sockets
+eth0: PACKET SNIFFER(/usr/lib/systemd/systemd-networkd[704])
+docker0: not promisc and no packet sniffer sockets
+Checking `w55808'...                                        not infected
+Checking `wted'...                                          chkwtmp: nothing deleted
+Checking `scalper'...                                       not infected
+Checking `slapper'...                                       not infected
+Checking `z2'...                                            chklastlog: nothing deleted
+Checking `chkutmp'...                                        The tty of the following user process(es) were not found
+ in /var/run/utmp !
+! RUID          PID TTY    CMD
+! gdm          2084 tty1   /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/129/.mutter-Xwaylandauth.AVCN51 -listen 4 -listen 5 -displayfd 6 -listen 7
+! gdm          2073 tty1   /usr/libexec/at-spi-bus-launcher
+! gdm          2379 tty1   /usr/libexec/at-spi2-registryd --use-gnome-session
+! gdm          1406 tty1   dbus-daemon --nofork --print-address 4 --session
+! gdm          2078 tty1   /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+! gdm          1403 tty1   dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+! gdm          1525 tty1   /usr/libexec/dconf-service
+! gdm          1326 tty1   /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+! gdm          2377 tty1   /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+! gdm          1407 tty1   /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+! gdm          1556 tty1   /usr/bin/gnome-shell
+! gdm          2424 tty1   /usr/libexec/gsd-a11y-settings
+! gdm          2391 tty1   /usr/libexec/gsd-color
+! gdm          2406 tty1   /usr/libexec/gsd-datetime
+! gdm          2433 tty1   /usr/libexec/gsd-housekeeping
+! gdm          2394 tty1   /usr/libexec/gsd-keyboard
+! gdm          2409 tty1   /usr/libexec/gsd-media-keys
+! gdm          2435 tty1   /usr/libexec/gsd-power
+! gdm          2395 tty1   /usr/libexec/gsd-print-notifications
+! gdm          2487 tty1   /usr/libexec/gsd-printer
+! gdm          2396 tty1   /usr/libexec/gsd-rfkill
+! gdm          2413 tty1   /usr/libexec/gsd-screensaver-proxy
+! gdm          2384 tty1   /usr/libexec/gsd-sharing
+! gdm          2397 tty1   /usr/libexec/gsd-smartcard
+! gdm          2417 tty1   /usr/libexec/gsd-sound
+! gdm          2389 tty1   /usr/libexec/gsd-wacom
+! gdm          2547 tty1   ibus-daemon --panel disable -r --xim
+! gdm          2767 tty1   /usr/libexec/ibus-engine-simple
+! gdm          2552 tty1   /usr/libexec/ibus-memconf
+! gdm          2559 tty1   /usr/libexec/ibus-portal
+! gdm          2555 tty1   /usr/libexec/ibus-x11 --kill-daemon
+! sysadmin   459683 pts/0  bash
+! sysadmin   460537 pts/1  bash
+! sysadmin   462901 pts/2  bash
+! root       639794 pts/3  /bin/sh /usr/sbin/chkrootkit -e system
+! root       640565 pts/3  ./chkutmp
+! root       640567 pts/3  ps axk tty,ruser,args -o tty,pid,ruser,args
+! root       640566 pts/3  sh -c ps axk "tty,ruser,args" -o "tty,pid,ruser,args"
+! root       639793 pts/3  sudo chkrootkit -e system
+! sysadmin   505831 pts/3  bash
+chkutmp: nothing deleted
+Checking `OSX_RSPLUG'...                                    not tested
